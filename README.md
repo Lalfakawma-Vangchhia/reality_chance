@@ -56,6 +56,4 @@ Visit http://127.0.0.1:8000/ to see the application.
 - Static files are in the `static` directory
 - Templates are in the `templates` directory
 
-## License
 
-This project is licensed under the MIT License.
