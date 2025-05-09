@@ -56,4 +56,21 @@ Visit http://127.0.0.1:8000/ to see the application.
 - Static files are in the `static` directory
 - Templates are in the `templates` directory
 
+## You can push from different branch by following the below command in your terminal.
+
+# Create and switch to a new branch
+git checkout -b your-feature-branch
+
+# Stage and commit your changes
+git add .
+git commit -m "Describe your changes here"
+
+# Push your new branch to GitHub
+git push origin your-feature-branch
+
+## Example 
+git checkout -b login-form-simpson
+git add .
+git commit -m "Add validation and UI improvements to login form"
+git push origin login-form-simpson
 
